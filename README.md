@@ -28,4 +28,8 @@ The notebook demonstrates various data cleaning techniques such as handling miss
 
 # 📂 Files in This Repository
 
-netflix_movies_and_tv_shows.ipynb → Google Colab notebook containing the full cleaning process
+[netflix_movies_and_tv_shows (1).ipynb](https://github.com/user-attachments/files/22470335/netflix_movies_and_tv_shows.1.ipynb)→ Google Colab notebook containing the full cleaning process
+
+[netflix_titles_before_cleaning.csv](https://github.com/user-attachments/files/22470297/netflix_titles_before_cleaning.csv)
+
+[netflix_titles_after_cleaning.csv](https://github.com/user-attachments/files/22470299/netflix_titles_after_cleaning.csv)
